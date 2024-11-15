@@ -15,6 +15,6 @@ Uživatel zadá:
 
 <h2>Instalace knihoven:</h2>
 
-Použité knihovny jsou v souboru '''requirements.txt'''. Nainstalovat knihvny lze pomocí příkazů: 
+Použité knihovny jsou v souboru '''requirements.txt. Nainstalovat knihvny lze pomocí příkazů: 
 
-'''pip install -r requirements.txt'''
+'''pip install -r requirements.txt
